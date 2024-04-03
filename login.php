@@ -16,9 +16,11 @@
           <section>
               <div class="panel panel-default top caja">
                   <div class="panel-body">
-                        <div class="col-md-offset-4 centered"><img src="img/logo.jpg" /></div>
-                        
-                      <h3 class="text-center">SiS-Proj - Sistema para Arquitetos de Gestão de Projetos</h3>
+                        <div class="text-center">
+                          <img src="img/logo.jpg" class="img-fluid mx-auto" width="100px">
+                        </div>
+                      <h3 class="text-center">SiS-Proj</h3>
+                      <h4 class="text-center">Sistema para Arquitetos de Gestão de Projetos</h4>
                        </br>
                       <form id="form_login" action="POST">
                           <div class="input-group input-group-lg">
